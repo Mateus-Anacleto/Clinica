@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Consulta
+comment1.params=medico
+comment1.target=void\ setMedico(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMedico()
+comment3.params=horario
+comment3.target=void\ setHorario(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getHorario()
+comment5.params=
+comment5.target=java.lang.String\ resposta()
+numComments=6
