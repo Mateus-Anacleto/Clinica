@@ -617,7 +617,8 @@ public class Main {
                             break;
                     }
                 }else{
-                    in.close();
+                    System.out.println("Você saiu");
+                    System.exit(0);
                 }
             }while(consulta != 4);
         }else{ 
